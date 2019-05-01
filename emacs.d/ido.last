@@ -1,0 +1,90 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/lviot/delivery/CPE/corewar_bootstrap/part2/" . "step2/")
+ ("/home/lviot/delivery/CPE/corewar_bootstrap/part2/step2/" . "src/")
+ ("/home/lviot/.config/" . "i3/")
+ ("/home/lviot/delivery/AIA/AIA_n4s_2018/" . "srcs/")
+ ("/home/lviot/delivery/PSU/PSU_tetris_2018/" . "srcs/")
+ ("/home/lviot/delivery/PSU/" . "PSU_tetris_2018/")
+ ("/home/lviot/delivery/" . "PSU/")
+ ("/home/lviot/" . ".config/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/lviot/delivery/MUL/MUL_my_rpg_2018/srcs/event/"
+ "/home/lviot/delivery/CPE/corewar_bootstrap/part2/step2/src/"
+ "/home/lviot/delivery/CPE/corewar_bootstrap/part2/step2/include/"
+ "/home/lviot/delivery/CPE/corewar_bootstrap/part2/step2/"
+ "/home/lviot/delivery/AIA/AIA_n4s_2018/srcs/"
+ "/home/lviot/delivery/STUMPERS/CPE_duostumper_6_2018/srcs/"
+ "/home/lviot/delivery/PSU/PSU_tetris_2018/srcs/gestion_obj/"
+ "/home/lviot/.config/i3/"
+ "/home/lviot/.config/kitty/"
+ "/home/lviot/"
+ "/home/lviot/delivery/PSU/PSU_tetris_2018/srcs/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "analyse_events.c"
+ "getters.c"
+ "proto.h"
+ "Makefile"
+ "cmd.c"
+ "ret_single_word.c"
+ "recup_obj.c"
+ "config"
+ "kitty.conf"
+ "main.c"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/lviot/delivery/MUL/MUL_my_rpg_2018/srcs/event/" (23753 62526 296663 853000) "analyse_events.c" "player_inrange.c" "./" "../" "check_mouse.c" "check_keyboard.c" "get_fire_coords.c" "move_player.c")
+
+ ("/home/lviot/delivery/MUL/MUL_my_rpg_2018/srcs/" (23753 62677 716662 217000) "game/" "./" "../" "map_gen/" "menu/" "HUD/" "sound/" "event/" "system/" "utils/" "main.c" "sprite_gen/")
+
+ ("/home/lviot/delivery/CPE/corewar_bootstrap/part2/step2/src/" (23752 19234 886617 783000) "cmd.c" "step2.o" "cmd.o" "str_copy.o" "./" "../" "getters.o" "step2.c" "str_copy.c" "getters.c")
+
+ ("/home/lviot/delivery/CPE/corewar_bootstrap/part2/step2/" (23752 19242 933284 366000) "include/" "src/" "Makefile" "yolotron-asm" "yolotron-vm" "./" "../" "bytecode" "example.yolotron")
+
+ ("/home/lviot/delivery/CPE/corewar_bootstrap/part2/step2/include/" (23752 19232 866617 806000) "proto.h~" "proto.h" "./" "../")
+
+ ("/home/lviot/delivery/AIA/" (23731 22465 926645 365000) "./" "../" "AIA_n4s_2018/")
+
+ ("/home/lviot/delivery/AIA/AIA_n4s_2018/" (23747 8093 249880 579000) "include/" "n4s_buffer" "Makefile" ".git/" "./" "../" "srcs/" "pipes.sh" "n4s" "n4s_package/")
+
+ ("/home/lviot/delivery/PSU/PSU_tetris_2018/srcs/" (23751 4255 503075 114000) "debug_mode/" "game/" "memory/" "gestion_obj/" "./" "../" "display/" "utils/" "main.c" "init/")
+
+ ("/home/lviot/" (23752 18592 169958 90000) ".emacs" ".zsh_history" ".zcompdump-arch-5.7.1" ".REPL_NAME/" ".ICEauthority" ".mysql_history" ".bashrc" "scripts/" ".macromedia/" ".xsession-errors" "Downloads/" ".pki/" "polybar-themes/" "Pictures/" ".gitconfig" ".dmrc" "VREP/" ".mozilla/" ".bash_logout" ".python_history" ".xsession-errors.old" ".cache/" ".vimrc_" "projects/" "dots/" ".adobe/" ".wicd/" ".oh-my-zsh/" ".lesshst" ".gnupg/" ".emacs.d/" ".ssh/" "Templates/" "Public/" ".bash_history" "./" "Documents/" "../" ".config/" ".emacs~" ".esd_auth" ".viminfo" "lib/" ".Xauthority" "Music/" "Desktop/" ".bash_profile" "Videos/" "undervolt/" ".zshrc" ".vim/" ".wallpaper/" "delivery/" ".fehbg" ".xinitrc" ".local/" ".java/" ".WebStorm2019.1/")
+
+ ("/home/lviot/delivery/AIA/AIA_n4s_2018/srcs/" (23750 44892 749977 354000) "cmd.c" "getters/" "./" "exec_cmd.c" "../" "skip_useless.c" "simulation.c" "main.c" "init.c")
+
+ ("/home/lviot/.config/kitty/" (23752 16842 719976 963000) "snazzy.conf" "./" "../" "kitty.conf" "kitty.conf~")
+
+ ("/home/lviot/.config/i3/" (23749 63061 303323 548000) "./" "../" "config" "config~")
+
+ ("/home/lviot/delivery/PSU/PSU_tetris_2018/srcs/gestion_obj/" (23751 4255 503075 114000) "create_obj.c" "recup_obj.c" "./" "../")
+
+ ("/home/lviot/delivery/CPE/corewar_bootstrap/part2/" (23750 54989 736568 357000) "./" "../" "step2/" "step1/")
+
+ ("/home/lviot/delivery/STUMPERS/CPE_duostumper_6_2018/srcs/" (23751 8739 493332 65000) "get_opt.o" "print_map.c" "get_opt.c" "ret_single_word.o" "game_loop.c" "check_winner.c" "create_map.o" "print_map.o" "game_loop.o" "./" "../" "getters.o" "ret_single_word.c" "main.o" "check_winner.o" "main.c" "create_map.c" "getters.c")
+
+ ("/home/lviot/.config/" (23749 35562 539951 200000) "dconf/" "i3/" "polybar/" "kitty/" "pulse/" "./" "../" "compton.conf~" "waybar/" "sway/" "chromium/" "gtk-3.0/" "menus/" "compton.conf")
+
+ ("/home/lviot/.config/polybar/" (23749 37437 906598 124000) "./" "../" "config" ".#conf" "config~")
+
+ ("/home/lviot/.emacs.d/" (23749 32453 223317 366000) "auto-complete-config.el" "elpa/" "ido.last~" "gruber-darker-theme.el" "auto-complete.elc" "./" "../" "auto-complete-config.elc" "auto-complete.el" "auto-save-list/" "auto-complete-pkg.el" "ac-comphist.dat" "ido.last" "auto-complete-pkg.elc" "epitech/" "gruber-darker-theme.el~")
+
+ ("/home/lviot/delivery/PSU/PSU_tetris_2018/" (23744 15547 143225 896000) "tetriminos/" "include/" "Makefile" ".git/" "./" "../" "srcs/" "lib/")
+
+ ("/home/lviot/delivery/PSU/" (23744 48350 676593 5000) "backup/" "./" "../" "PSU_minishell2_2018/" "PSU_my_sokoban_2018/" "PSU_my_printf_2018/" "PSU_minishell1_2018/" "PSU_tetris_2018/")
+
+ ("/home/lviot/delivery/" (23731 22415 9979 237000) "AIA/" "CPE/" "WEB/" "CPOOL/" "PSU/" "./" "../" "STUMPERS/" "MUL/" "MAHTS/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
